@@ -100,7 +100,7 @@ public class Main {
 
     public static void task7() {
         System.out.println("Задача 7");
-        int friday = 3;
+        int friday = 10;
         while (friday <= 31) {
             System.out.println("Сегодня пятница, " + friday + "-е число. Необходимо подготовить отчет");
             friday += 7;
